@@ -1,0 +1,29 @@
+.cvBtn{
+    height: 90px;
+    width: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+    text-align: end;
+    text-decoration: none;
+    color: white;
+    background: transparent;
+    border: 1px solid #E0E01E;
+    padding: 10px 12px;
+    margin-right: 10rem;
+  
+}
+
+
+.cvBtn a{
+    font-size: 0px;
+    color: #E0E01E;
+    
+}
+
+
+.cvBtn:hover{
+    background-color: #E0E01E;
+    border: none;
+    color: black;
+    transition: .1s ease-in-out;
+}

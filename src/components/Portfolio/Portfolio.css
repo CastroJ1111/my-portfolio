@@ -1,0 +1,86 @@
+.container-port-section{
+    background-color:green;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+
+
+.portfolio-container{
+    background-color: #222;
+    color:  white;
+    gap: 20px;
+    border: 1px solid white;
+    text-align: center;
+    
+}
+
+.project-container{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+
+    gap: 90px;
+    padding: 20px;
+}
+
+.portfolio-btn{
+    background-color:  #222;
+    width: 100%;
+    display: flex;
+   
+}
+
+
+
+.portfolio-btn a{
+    text-decoration: none;
+    color:  #222;
+    font-size: 20px;
+    background-color: gold;
+    padding: 6px 10px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70px;
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.portfolio-btn a:hover{
+    color: white;
+    background: transparent;
+    transition: .5s ease-in-out;
+    border: 1px solid white;
+
+}
+
+
+
+@media screen and (max-width: 768px){
+
+    .container-port-section{
+        background-color :goldenrod;
+        height: auto;
+        padding-top: 100px;
+    }
+
+    .portfolio-container{
+        background-color: #222;
+        color:  white;
+        border: 1px solid white;
+        text-align: center;
+        padding-bottom: 90px;
+        
+    }
+    
+    .project-container{
+    display: flex;
+    flex-direction: column;
+    gap: 90px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+}
