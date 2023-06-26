@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.1aafcf71.css",
+    "main.js": "/my-portfolio/static/js/main.2dcfd41f.js",
+    "static/js/787.8768a849.chunk.js": "/my-portfolio/static/js/787.8768a849.chunk.js",
+    "static/media/RESUME.pdf": "/my-portfolio/static/media/RESUME.3ad4ddacafb5ef1afd36.pdf",
+    "static/media/telconetwork.jpg": "/my-portfolio/static/media/telconetwork.f919b32a2e01826d481a.jpg",
+    "static/media/image.jpg": "/my-portfolio/static/media/image.a091c30e36f2889c5bba.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.1aafcf71.css.map": "/my-portfolio/static/css/main.1aafcf71.css.map",
+    "main.2dcfd41f.js.map": "/my-portfolio/static/js/main.2dcfd41f.js.map",
+    "787.8768a849.chunk.js.map": "/my-portfolio/static/js/787.8768a849.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aafcf71.css",
+    "static/js/main.2dcfd41f.js"
+  ]
+}
