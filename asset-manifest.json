@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.1aafcf71.css",
-    "main.js": "/my-portfolio/static/js/main.2dcfd41f.js",
+    "main.css": "/my-portfolio/static/css/main.56477cdd.css",
+    "main.js": "/my-portfolio/static/js/main.ab53b475.js",
     "static/js/787.8768a849.chunk.js": "/my-portfolio/static/js/787.8768a849.chunk.js",
     "static/media/RESUME.pdf": "/my-portfolio/static/media/RESUME.3ad4ddacafb5ef1afd36.pdf",
+    "static/media/pro1.jpg": "/my-portfolio/static/media/pro1.eebec9307ba84a4cc71b.jpg",
+    "static/media/pro3.jpg": "/my-portfolio/static/media/pro3.177488148cbe47f87a4b.jpg",
+    "static/media/pro2.jpg": "/my-portfolio/static/media/pro2.0d46ecbcab607115cfc3.jpg",
     "static/media/telconetwork.jpg": "/my-portfolio/static/media/telconetwork.f919b32a2e01826d481a.jpg",
-    "static/media/image.jpg": "/my-portfolio/static/media/image.a091c30e36f2889c5bba.jpg",
     "index.html": "/my-portfolio/index.html",
-    "main.1aafcf71.css.map": "/my-portfolio/static/css/main.1aafcf71.css.map",
-    "main.2dcfd41f.js.map": "/my-portfolio/static/js/main.2dcfd41f.js.map",
+    "main.56477cdd.css.map": "/my-portfolio/static/css/main.56477cdd.css.map",
+    "main.ab53b475.js.map": "/my-portfolio/static/js/main.ab53b475.js.map",
     "787.8768a849.chunk.js.map": "/my-portfolio/static/js/787.8768a849.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aafcf71.css",
-    "static/js/main.2dcfd41f.js"
+    "static/css/main.56477cdd.css",
+    "static/js/main.ab53b475.js"
   ]
 }
