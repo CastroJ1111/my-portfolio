@@ -21,7 +21,6 @@ function App() {
     <div  className="App"> 
        
       <BrowserRouter>
-
       <Navigation></Navigation>
         <Routes>
           <Route path="" element={ <Intro/> }></Route>
@@ -30,7 +29,7 @@ function App() {
           <Route path="/Contact" element={ <Contact/> }></Route>
           <Route path="/Portfolio" element={ <Portfolio/> }></Route>
         </Routes>
-        <Intro></Intro>
+       
         
     </BrowserRouter>
     </div>
