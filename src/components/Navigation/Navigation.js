@@ -34,9 +34,9 @@ const NavigationBar = () => {
                     <li className="navItem">
                         <Link to="" onClick={removeNavbar} className="menuLink">HOME</Link>
                     </li>
-                    <li className="navItem">
+                    {/* <li className="navItem">
                         <Link to="./Work" onClick={removeNavbar} className="menuLink">WORK</Link>
-                    </li>
+                    </li> */}
                     <li className="navItem">
                         <Link to="./Contact" onClick={removeNavbar} className="menuLink">CONTACT</Link>
                     </li>
