@@ -12,7 +12,7 @@ const PortfolioCard = (props) => {
                 <p>{props.text}</p>
                 <div className="portfolio-btn">
                     <NavLink to={props.view} className="btn">view</NavLink>
-                    <NavLink to={props.view} className="btn">source</NavLink>
+                    {/* <NavLink to={props.view} className="btn">source</NavLink> */}
                 </div>
             </div>
         </div>
