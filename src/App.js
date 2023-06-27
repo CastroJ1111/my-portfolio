@@ -21,14 +21,17 @@ function App() {
     <div  className="App"> 
        
       <BrowserRouter>
+
       <Navigation></Navigation>
         <Routes>
-          <Route path="/" element={ <Intro/> }></Route>
+          <Route path="" element={ <Intro/> }></Route>
           {/* <Route path="/Work" element={ <Work/> }></Route> */}
           <Route path="/MySkills" element={ <MySkills/> }></Route>
           <Route path="/Contact" element={ <Contact/> }></Route>
           <Route path="/Portfolio" element={ <Portfolio/> }></Route>
         </Routes>
+        <Intro></Intro>
+        
     </BrowserRouter>
     </div>
 
