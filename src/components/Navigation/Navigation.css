@@ -17,7 +17,7 @@
   height: 60px;
   width: 100%;
   background: #101006;
-  z-index: 2000;
+  z-index: 1;
   border: 1px solid rgb(234, 203, 24);
   box-shadow: 2px 2px 8px 1px rgb(234, 203, 24);
 

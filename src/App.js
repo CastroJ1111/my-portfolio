@@ -24,7 +24,7 @@ function App() {
       <Navigation></Navigation>
         <Routes>
           <Route path="/" element={ <Intro/> }></Route>
-          <Route path="/Work" element={ <Work/> }></Route>
+          {/* <Route path="/Work" element={ <Work/> }></Route> */}
           <Route path="/MySkills" element={ <MySkills/> }></Route>
           <Route path="/Contact" element={ <Contact/> }></Route>
           <Route path="/Portfolio" element={ <Portfolio/> }></Route>
